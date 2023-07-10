@@ -4,7 +4,6 @@ import objecttier
 
 ## Preet Talati
 ## Date: 3/1/23
-## Uin:  668738765
 ## Description: A program that reads and updates the MovieLens database in SQLite
 
 ##################################################################  
